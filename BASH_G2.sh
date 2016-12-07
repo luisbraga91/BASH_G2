@@ -150,7 +150,7 @@ efetua_backup(){	# função da opção efetua_backup
 	clear	# limpa tela
 	echo "Opção inválida."		# interação com usuário
 	echo "Não foi possivel fazer o backup, cancele a execução do script e repita o processo."		# interação com usuário
-    fi
+    if
     echo "Script finalizado, verifique o backup!"		# interação com usuário
     read pause	# usado para pausar a execução do script
     clear	# limpa tela
