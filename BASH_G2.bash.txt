@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#Criado por Luis Filipe Matias Braga
+#Data 07/12/2016
 
 menuprincipal()
 
